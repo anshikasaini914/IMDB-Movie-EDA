@@ -51,14 +51,6 @@ Based on the analysis, here are actionable recommendations:
 - **Matplotlib** - Data visualization
 - **Jupyter Notebook** - Interactive development environment
 
-## Project Structure
-IMDb-Movie-Analysis/
-│
-├── movies_rating_analysis.ipynb # Main analysis notebook
-├── movie-data.csv # Dataset
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└── .gitignore # Git ignore file
 
 ## Future Enhancements
 
